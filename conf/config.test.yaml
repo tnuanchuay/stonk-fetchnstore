@@ -1,0 +1,4 @@
+database:
+  mysql:
+    password: password
+    db: test_stock
